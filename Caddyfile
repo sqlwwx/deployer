@@ -1,0 +1,3 @@
+https://deployer.lab.wuweixing.com {
+  proxy / :3000
+}
